@@ -1,0 +1,53 @@
+{
+    "name": "multi-env-cli",
+    "version": "1.0.0",
+    "description": "Hot-editable multi-instance environment manager for Node.js projects",
+    "bin": {
+      "multi-env": "./bin/cli.js"
+    },
+    "main": "lib/run.js",
+    "scripts": {
+      "test": "node test.js"
+    },
+    "author": "cinfinit",
+  "license": "MIT",
+  "keywords": [
+  "env",
+  "environment",
+  "env-files",
+  "dotenv",
+  "hot-reload",
+  "hot-reload-env",
+  "multi-instance",
+  "node-cli",
+  "cli-tool",
+  "dev-tool",
+  "developer-tool",
+  "nodejs",
+  "rapid-development",
+  "workflow",
+  "testing",
+  "staging",
+  "production",
+  "multi-environment",
+  "dynamic-env",
+  "process-manager",
+  "temp-env",
+  "auto-restart",
+  "node-process",
+  "sandbox",
+  "temp-files",
+  "local-development",
+  "debugging",
+  "rapid-iteration",
+  "developer-experience"
+],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cinfinit/multi-env-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/cinfinit/multi-env-cli/issues"
+  },
+  "homepage": "https://github.com/cinfinit/multi-env-cli#readme"
+  }
